@@ -1,2 +1,1 @@
-# C-V-
 Curriculum vitae
