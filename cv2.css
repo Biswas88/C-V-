@@ -24,7 +24,7 @@ img {
     border-radius: 50%;
 } 
 .main{
-    margin-left: 300px;
+    margin-left: 0px;
     position: fixed;
     border: 1px solid white ;
 } 
@@ -55,13 +55,11 @@ img {
 .skill{
     margin: 5px;
     padding: 20px;
-    height: 160px;
 }
 
 .hobbies{
     margin: 5px;
     padding: 20px;
-    height: 80px;
 }
 .right{
     height: 500px;
@@ -72,18 +70,18 @@ img {
 .Introduction{
     margin: 5px;
     padding: 20px;
-    height: 50px;
+
 
 }
 .Education{
     margin: 5px;
     padding: 20px;
-    height: 100px;
+
 }
 .university{
     margin: 5px;
     padding: 20px;
-    height: 60px;
+
 }
 .Achievment{
     margin: 5px;
